@@ -1,5 +1,5 @@
 # Calculator-Using-JavaScript
 This is a calculator made using HTML,CSS and JavaScript
 # Screenshot
-![image](https://user-images.githubusercontent.com/74227860/118011112-4a0b6500-b36d-11eb-9c47-9b9647669be1.png)
+![image](https://user-images.githubusercontent.com/74227860/118153213-4510e900-b433-11eb-897e-6bc3f054c87b.png)
 
